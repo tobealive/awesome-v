@@ -28,9 +28,8 @@
 	- [Database clients](#database-clients)
 	- [Discord](#discord)
 	- [Eventing](#eventing)
-	<!--lint disable awesome-list-item-->
+	<!--lint ignore awesome-list-item-->
 	- [Files](#Files)
-	<!--lint enable awesome-list-item-->
 	- [Game development](#game-development)
 	- [Graphics](#graphics-1)
 	- [IRC](#irc)
